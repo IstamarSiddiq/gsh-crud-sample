@@ -3,9 +3,6 @@ import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import { Container } from 'semantic-ui-react';
 
 import Navbar from './components/Navbar';
-// import Home from './pages/Home';
-// import Add from './pages/Add';
-// import UIDoc from './pages/UIDoc';
 
 import pages from './pages';
 
